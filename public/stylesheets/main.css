@@ -1,0 +1,48 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.delete-form {
+    display: inline;
+}
+
+.navbar-default .navbar-brand:hover{
+    color: #337AB7;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #337AB7;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #337AB7;
+}
+
+/* Search Bar */
+button, html input[type=button], input[type=reset], input[type=submit]:hover {
+    color:white;
+    background-color: #337AB7;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+/* User Profile */
+#avatar-pic {
+    width: 100px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul a {
+    color: #337AB7;
+}
